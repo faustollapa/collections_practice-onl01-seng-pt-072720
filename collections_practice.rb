@@ -1,1 +1,1 @@
-def sort
+def sort_array_asc
